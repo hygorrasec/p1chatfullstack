@@ -1,0 +1,3 @@
+ - Conentando no Postgres: ```psql -U postgres -h localhost```
+ - Criando banco de dados: ```create database chatp1fullstack;```
+ - Iniciando Ngrok: ```ngrok http http://127.0.0.1:3001/```
